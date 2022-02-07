@@ -1,4 +1,4 @@
-This application's functions are as follows.
+This is a Spring Boot application with the following functions.
 
 1) Return Yelp reviews via business ID
 2) Return image labels for each Yelp reviewer profile via Amazon Rekognition
